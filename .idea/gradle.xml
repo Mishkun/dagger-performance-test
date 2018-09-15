@@ -8,6 +8,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/javasubcomponent" />
             <option value="$PROJECT_DIR$/kotlincomponent" />
             <option value="$PROJECT_DIR$/kotlinsubcomponent" />
             <option value="$PROJECT_DIR$/poet" />

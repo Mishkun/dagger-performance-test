@@ -1,1 +1,1 @@
-include ':kotlincomponent', ':poet', ':kotlinsubcomponent'
+include ':kotlincomponent', ':poet', ':kotlinsubcomponent', ':javasubcomponent'
